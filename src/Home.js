@@ -15,7 +15,7 @@ function Home() {
             <div className="home__row">
                 <Product
                     id="09090"
-                    title="Blender"
+                    title="Blender Force 3D - 1500W American Style Jug Blender"
                     price={9.99}
                     rating={5}
                     image="https://www.morphyrichards.co.uk/Images/Products/Default/xlarge/HR403053.jpg"
